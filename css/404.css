@@ -1,0 +1,1 @@
+.btn {color: var(--primary-color-dark);background-color: white;padding: 10px;border-radius: 0.25rem;text-decoration: none;position: relative;transition: transform 0.3s ease-in;}.btn:hover {animation: 0.5s ease infinite;transition: transform 0.3s ease-out;background-color: var(--secondary-color-light);}.not-found {display: grid;height: 100vh;width: 100vw;place-items: center;}

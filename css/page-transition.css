@@ -1,0 +1,1 @@
+.page {opacity: 0;transition: opacity 1s ease-in-out;}.page.visible {opacity: 1;}
